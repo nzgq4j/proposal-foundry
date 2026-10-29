@@ -1,0 +1,33 @@
+/* Proposal Foundry tokens, light theme. Source: Proposal Foundry design system tokens.json */
+:root {
+  --surface: #ffffff;
+  --surface-alt: #f8f9fa;
+  --surface-cream: #fbfaf3;
+  --surface-inverse: #111111;
+  --ink: #111111;
+  --ink-muted: #686868;
+  --ink-subtle: #abb8c3;
+  --ink-inverse: #ffffff;
+  --ink-black: #000000;
+  --accent: #f87800;
+  --logo-orange: #f15a24;
+  --on-accent: #ffffff;
+  --on-accent-strong: #111111;
+  --accent-text: #a65000;
+  --navy: #3b4291;
+  --violet: #503aa8;
+  --graphite: #333333;
+  --border: #1a1a1a;
+  --border-subtle: var(--ink-subtle);
+  --space-10: 10px;
+  --space-20: 20px;
+  --space-30: 30px;
+  --space-50: 50px;
+  --space-70: 70px;
+  --space-90: 90px;
+  --space-140: 140px;
+  --radius-0: 0px;
+  --font-sans: "Albert Sans", system-ui, sans-serif;
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --container: 1180px;
+}

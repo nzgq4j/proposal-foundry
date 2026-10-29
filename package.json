@@ -1,0 +1,24 @@
+{
+  "name": "proposal-foundry-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/albert-sans": "5.2.6",
+    "@fontsource/cormorant-garamond": "5.2.8",
+    "next": "15.5.27",
+    "react": "19.1.10",
+    "react-dom": "19.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.30",
+    "@types/react": "19.1.17",
+    "@types/react-dom": "19.1.11",
+    "typescript": "5.8.3"
+  }
+}
